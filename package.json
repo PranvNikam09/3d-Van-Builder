@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A 3D configurator for custom products.",
   "private": true,
-  "author": "Ramkumar Tirole",
+  "author": "Pranav Nikam",
   "license": "MIT",
   "type": "module",
   "scripts": {
